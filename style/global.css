@@ -39,3 +39,7 @@ div.main {
 	height: fit-content;
 	width: 75%;
 }
+
+ul { list-style: none; }
+ul li::before { content: ") "; color: #e2b949; }
+
