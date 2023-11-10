@@ -43,3 +43,5 @@ div.main {
 ul { list-style: none; }
 ul li::before { content: ") "; color: #e2b949; }
 
+span.ylw { color: #e2b949; }
+
